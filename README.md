@@ -10,4 +10,4 @@ This project focuses on the classification of DNA and RNA strands of viruses bel
 
 ## Author
 
-- Vito Nicola Losavio - *Initial Work* - [GitHub](https://github.com/VitoNicolaLosavio)
+- Vito Nicola Losavio - [GitHub](https://github.com/VitoNicolaLosavio)
