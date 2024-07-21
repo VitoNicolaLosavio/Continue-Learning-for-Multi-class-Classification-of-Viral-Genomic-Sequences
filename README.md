@@ -1,4 +1,4 @@
-# # Continue Learning for Multi-class Classification of Viral Genomic Sequences
+# Continue Learning for Multi-class Classification of Viral Genomic Sequences
 
 ## Description
 
@@ -6,7 +6,7 @@ This project focuses on the classification of DNA and RNA strands of viruses bel
 
 1. Model Creation: A CNN-LSTM (Convolutional Neural Network and Long Short-Term Memory) based model was developed.
 2. Application of the Model on the Unbalanced Dataset: The model was trained and evaluated on an unbalanced dataset using the continuous learning technique.
-3. Application of the Model on the Balanced Dataset: The model was trained and evaluated on a balanced dataset using the continuous learning technique. To balance the dataset, the SMOTEEN (Synthetic Minority Over-sampling Technique and Edited Nearest Neighbors) technique was applied for oversampling.
+3. Application of the Model on the Balanced Dataset: The model was trained and evaluated on a balanced dataset using the continuous learning technique. To balance the dataset, the SMOTEN (Synthetic Minority Over-sampling Technique and Edited Nearest Neighbors) technique was applied for oversampling.
 
 ## Author
 
